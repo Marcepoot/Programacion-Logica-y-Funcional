@@ -1,0 +1,17 @@
+Enmasculino(alan).
+masculino(pedro).
+masculino(rafa).
+masculino(alexis).
+masculino(marcelino).
+masculino(jose).
+masculino(david).
+masculino(flavio).
+femenino(lucia).
+femenino(montserrat).
+femenino(delmi).
+femenino(alicia).
+femenino(diana).
+femenino(gladys).
+femenino(ana).
+
+⬀1 ?- masculino(pedro).
